@@ -1,0 +1,28 @@
+name: deerstalkers
+favicon: null
+layout_spectrum: 0.040625470923259854
+typography_spectrum: 0.44448827276937664
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8641691922675818
+  lightness: 0.039938684552907944
+  saturation: 0.21623809286393225
+  rhythmicContrast: 0.6793619384989142
+purpose: []
